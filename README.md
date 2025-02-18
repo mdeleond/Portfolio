@@ -1,2 +1,2 @@
 # ds_projects
-Pyhton projects compilation
+Python projects compilation
